@@ -10,6 +10,6 @@ share a xposehook demo with you guys
 before you use the demo,you need to:
 1.root your android sellphone
 2.install the xpose frame
-My contector information：
+My contact information：
 qq:747289639
 email:747289639@qq.com
